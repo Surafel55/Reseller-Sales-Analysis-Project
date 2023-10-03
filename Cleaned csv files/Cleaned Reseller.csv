@@ -1,0 +1,701 @@
+﻿1,A Bike Store,Value Added Reseller,S,300000.00,30000.00,2020,2020,US
+2,Progressive Sports,Specialty Bike Shop,A,800000.00,80000.00,2021,2022,US
+3,Advanced Bike Components,Warehouse,Q,1500000.00,150000.00,2020,2022,US
+4,Modular Cycle Systems,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+5,Metropolitan Sports Supply,Specialty Bike Shop,A,800000.00,80000.00,2021,2022,US
+6,Aerobic Exercise Company,Warehouse,Q,1500000.00,150000.00,2022,2022,US
+7,Associated Bikes,Value Added Reseller,S,300000.00,30000.00,2020,2021,US
+8,Exemplary Cycles,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,US
+9,Tandem Bicycle Store,Warehouse,Q,1500000.00,150000.00,2021,2022,US
+10,Rural Cycle Emporium,Value Added Reseller,S,800000.00,80000.00,2021,2022,CA
+11,Sharp Bikes,Specialty Bike Shop,A,800000.00,80000.00,2020,2020,CA
+12,Bikes and Motorbikes,Warehouse,Q,1500000.00,150000.00,2021,2022,CA
+13,Country Parts Shop,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,FR
+14,Bicycle Warehouse Inc.,Specialty Bike Shop,A,1000000.00,100000.00,2022,2022,DE
+15,Budget Toy Store,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+16,Bulk Discount Store,Value Added Reseller,S,800000.00,80000.00,2021,2022,GB
+17,Trusted Catalog Store,Specialty Bike Shop,A,1000000.00,100000.00,2019,2022,US
+18,Catalog Store,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+19,Center Cycle Shop,Value Added Reseller,S,1000000.00,100000.00,2021,2021,US
+20,Central Discount Store,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+21,Chic Department Stores,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+22,Travel Systems,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+23,Bike World,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+24,Eastside Department Store,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+25,Coalition Bike Company,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+26,Stylish Department Stores,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+27,Sports Sales and Rental,Warehouse,Q,3000000.00,300000.00,2019,2022,US
+28,Commuter Bicycle Store,Value Added Reseller,S,800000.00,80000.00,2022,2022,CA
+29,Cross-Country Riding Supplies,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,CA
+30,Cycle Merchants,Warehouse,Q,3000000.00,300000.00,2021,2022,CA
+31,Wheels Inc.,Value Added Reseller,S,800000.00,80000.00,2022,2022,FR
+32,Precision Gears Inc.,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,DE
+33,Global Sports Outlet,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+34,Cycles Wholesaler & Mfg.,Value Added Reseller,S,800000.00,80000.00,2021,2022,GB
+35,Economic Parts Supply,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+36,Exotic Bikes,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+37,Two Bike Shops,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+38,Finer Mart,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+39,Fitness Hotel,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+40,Journey Sporting Goods,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+41,Distant Inn,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+42,Healthy Activity Store,Warehouse,Q,3000000.00,300000.00,NULL,NULL,US
+43,Frugal Bike Shop,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+44,Games and Sport Supply Company,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+45,Every Bike Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+46,Gear-Shift Bikes Limited,Value Added Reseller,S,800000.00,80000.00,2021,2021,CA
+47,Greater Bike Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,CA
+48,Grand Industries,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+49,Neighborhood Bicycle Storehouse,Value Added Reseller,S,800000.00,80000.00,2022,2022,FR
+50,Hometown Riding Supplies,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,DE
+51,Ideal Components,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+52,Instruments and Parts Company,Value Added Reseller,S,300000.00,30000.00,2022,2022,GB
+53,Incomparable Bicycle Store,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+54,Larger Cycle Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+55,Kickstands and Accessories Company,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+56,Latest Accessories Sales,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+57,Leading Sales & Repair,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+58,Largest Bike Store,Value Added Reseller,S,300000.00,30000.00,2020,2021,US
+59,Locks Company,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+60,Main Bicycle Services,Warehouse,Q,3000000.00,300000.00,NULL,NULL,US
+61,Many Bikes Store,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+62,Manufacturers Inc,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+63,Metro Bike Mart,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+64,Metal Clearing House,Value Added Reseller,S,300000.00,30000.00,2022,2022,CA
+65,Metro Manufacturing,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+66,Neighborhood Store,Warehouse,Q,3000000.00,300000.00,2021,2021,CA
+67,Self-Contained Cycle Parts Company,Value Added Reseller,S,300000.00,30000.00,2021,2022,FR
+68,North Bike Company,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,DE
+69,Online Bike Catalog,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+70,Outdoor Aerobic Systems Company,Value Added Reseller,S,300000.00,30000.00,2022,2022,GB
+71,Outdoor Distributors,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+72,Outdoor Equipment Store,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+73,Outdoor Sports Supply,Value Added Reseller,S,300000.00,30000.00,2020,2021,US
+74,Parcel Express Delivery Service,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+75,Paint Supply,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+76,Out-of-the-Way Hotels,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,US
+77,Mechanical Products Ltd.,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+78,Preferred Bikes,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+79,Reasonable Bicycle Sales,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+80,Racks and Security Systems,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+81,Rally Day Mall,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+82,Refined Department Stores,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,CA
+83,Requisite Part Supply,Specialty Bike Shop,A,1500000.00,150000.00,2019,2020,CA
+84,Rewarding Activities Company,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+85,Roadway Bicycle Supply,Value Added Reseller,S,800000.00,80000.00,2022,2022,FR
+86,Bicycle Exporters,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,DE
+87,Rich Department Store,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+88,Closest Bicycle Store,Value Added Reseller,S,800000.00,80000.00,2022,2022,GB
+89,Riverside Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+90,Sales and Supply Company,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+91,Scooters and Bikes Store,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+92,Sports Commodities,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+93,Stationary Bikes and Stands,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+94,Specialty Sports Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+95,Rural Department Store,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+96,More Bikes!,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+97,Mountain Bike Center,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+98,Superlative Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+99,Unified Sports Company,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+100,Up-To-Date Sports,Value Added Reseller,S,1000000.00,100000.00,2022,2022,CA
+101,Urban Sports Emporium,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,CA
+102,National Manufacturing,Warehouse,Q,3000000.00,300000.00,2020,2021,CA
+103,The Bike Outlet,Value Added Reseller,S,800000.00,80000.00,2022,2022,FR
+104,Very Best Sports Supply,Specialty Bike Shop,A,1000000.00,100000.00,2022,2022,DE
+105,Volume Bike Sellers,Warehouse,Q,3000000.00,300000.00,NULL,NULL,AU
+106,West Side Mart,Value Added Reseller,S,800000.00,80000.00,2022,2022,GB
+107,Wholesale Bikes,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+108,Wheelsets Storehouse,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+109,Travel Sports,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+110,Vintage Sport Boutique,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+111,Westside Cycle Store,Specialty Bike Shop,A,800000.00,80000.00,2020,2021,US
+112,Town Industries,Warehouse,Q,1500000.00,150000.00,2022,2022,US
+113,Trendy Department Stores,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+114,Two Wheels Cycle Store,Specialty Bike Shop,A,800000.00,80000.00,2020,2020,US
+115,Security Racks and Locks Wholesalers,Warehouse,Q,1500000.00,150000.00,2021,2022,US
+116,Retirement Activities Association,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+117,Pedals Warehouse,Specialty Bike Shop,A,800000.00,80000.00,2019,2022,US
+118,Rapid Bikes,Warehouse,Q,1500000.00,150000.00,2020,2022,CA
+119,Red Bicycle Company,Value Added Reseller,S,800000.00,80000.00,2019,2022,CA
+120,Machines & Cycles Store,Specialty Bike Shop,A,800000.00,80000.00,2021,2022,CA
+121,Metro Sports Equipment,Warehouse,Q,1500000.00,150000.00,2021,2022,FR
+122,Off-Price Bike Center,Value Added Reseller,S,800000.00,80000.00,2022,2022,DE
+123,First Supplies,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,AU
+124,Nearby Sporting Goods,Warehouse,Q,3000000.00,300000.00,2021,2022,GB
+125,Immediate Repair Shop,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+126,Famous Bike Sales and Service,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+127,Front Sporting Goods,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+128,Demand Distributors,Value Added Reseller,S,1000000.00,100000.00,2020,2022,US
+129,Discount Bicycle Specialists,Specialty Bike Shop,A,1000000.00,100000.00,2020,2020,US
+130,Elite Bikes,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+131,Eighth Bike Store,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+132,Another Sporting Goods Company,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+133,Commercial Sporting Goods,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+134,Budget Bike Company,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+135,Wonderful Bikes Inc.,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+136,Wholesale Parts,Warehouse,Q,3000000.00,300000.00,2020,2020,CA
+137,Transportation Options,Value Added Reseller,S,800000.00,80000.00,2020,2021,CA
+138,South Bike Company,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,CA
+139,Steel Inc.,Warehouse,Q,3000000.00,300000.00,2020,2022,FR
+140,Teen Discount Store,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,DE
+141,Rental Gallery,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+142,Riding Cycles,Warehouse,Q,3000000.00,300000.00,2022,2022,GB
+143,Modern Bike Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+144,Only Bikes and Accessories,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+145,Raw Materials Inc,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+146,Latest Sports Equipment,Value Added Reseller,S,800000.00,80000.00,2019,2022,US
+147,Local Hardware Factory,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+148,Lots of Bikes Storehouse,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+149,Initial Bike Company,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+150,Fleet Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+151,Futuristic Bikes,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+152,Distance Bikes,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+153,Widget Bicycle Specialists,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+154,Camping and Sports Store,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+155,Corner Bicycle Supply,Value Added Reseller,S,800000.00,80000.00,2020,2022,CA
+156,Metal Processing Company,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,CA
+157,Ace Bicycle Supply,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+158,Rural Sporting Goods,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,DE
+159,Uncompromising Quality Co,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+160,Vigorous Sports Store,Warehouse,Q,3000000.00,300000.00,2021,2022,GB
+161,Weekend Tours,Value Added Reseller,S,300000.00,30000.00,2019,2021,US
+162,Tire Company,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+163,Sports Merchandise,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+164,Suburban Cycle Shop,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+165,Third Bike Store,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+166,Fitness Toy Store,Warehouse,Q,3000000.00,300000.00,2019,2022,US
+167,Farthermost Bike Shop,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+168,Economy Bikes Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+169,Downtown Hotel,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+170,Excellent Riding Supplies,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+171,Eighty Toy Stores,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+172,Certified Sports Supply,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+173,Sundry Sporting Goods,Value Added Reseller,S,300000.00,30000.00,2020,2022,CA
+174,Toy Manufacturing Inc,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,CA
+175,Registered Cycle Store,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+176,Rodeway Bike Store,Value Added Reseller,S,300000.00,30000.00,2022,2022,DE
+177,Plastic Products Manufacturers,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,AU
+178,Rampart Amusement Company,Warehouse,Q,3000000.00,300000.00,2022,2022,GB
+179,Fourth Bike Store,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+180,Full-Service Bike Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+181,Family Entertainment Center,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+182,Another Bicycle Company,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+183,This Area Sporting Goods,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+184,Go-cart and Bike Specialists,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+185,Weekend Bike Tours,Value Added Reseller,S,300000.00,30000.00,2021,2021,US
+186,Thrilling Bike Tours,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+187,Trailblazing Sports,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+188,Variety Bike Outlet,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,US
+189,Principal Bicycle Supply,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+190,Racing Partners,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+191,Non-Slip Pedal Company,Value Added Reseller,S,300000.00,30000.00,2020,2022,CA
+192,Nuts and Bolts Mfg.,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,CA
+193,Perfect Toys,Warehouse,Q,3000000.00,300000.00,2022,2022,FR
+194,Mechanical Brake Manufacturers,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,DE
+195,Inexpensive Parts Shop,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+196,Exhibition Showroom,Warehouse,Q,3000000.00,300000.00,2021,2022,GB
+197,"Fabrikam Inc., West",Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+198,Field Trip Inc,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+199,Authorized Bike Sales and Rental,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+200,Basic Bike Company,Value Added Reseller,S,800000.00,80000.00,2019,2022,US
+201,Unsurpassed Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+202,Two-Seater Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+203,Separate Parts Corporation,Value Added Reseller,S,800000.00,80000.00,2019,2021,US
+204,Traction Tire Company,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+205,Rally Master Company Inc,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+206,New and Used Bicycles,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+207,Lubricant and Grease Suppliers,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+208,Professional Cyclists,Warehouse,Q,3000000.00,300000.00,2020,2021,CA
+209,Purple Bicycle Company,Value Added Reseller,S,1000000.00,100000.00,NULL,NULL,CA
+210,Gasless Cycle Shop,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,CA
+211,Sports Products Store,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+212,Enterprise Center,Value Added Reseller,S,800000.00,80000.00,2022,2022,DE
+213,Fast Bike Works,Specialty Bike Shop,A,1000000.00,100000.00,2022,2022,AU
+214,Exclusive Bicycle Mart,Warehouse,Q,3000000.00,300000.00,2021,2022,GB
+215,Eleventh Bike Store,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+216,Painters Bicycle Specialists,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+217,City Manufacturing,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+218,Sure & Reliable Sporting Goods,Value Added Reseller,S,800000.00,80000.00,2020,2021,US
+219,Extras Sporting Goods,Value Added Reseller,S,300000.00,30000.00,2021,2021,US
+220,Best o' Bikes,Specialty Bike Shop,A,800000.00,80000.00,2021,2022,US
+221,Bike Dealers Association,Warehouse,Q,1500000.00,150000.00,2019,2022,US
+222,Sample Bike Store,Value Added Reseller,S,300000.00,30000.00,2020,2021,US
+223,Paints and Solvents Company,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,US
+224,Pedal Systems Company,Warehouse,Q,1500000.00,150000.00,2021,2021,US
+225,Optimal Bikes,Value Added Reseller,S,300000.00,30000.00,2021,2021,US
+226,Leisure Activities,Specialty Bike Shop,A,800000.00,80000.00,2021,2021,CA
+227,"Health Spa, Limited",Warehouse,Q,1500000.00,150000.00,2019,2022,CA
+228,Home Town Bike Store,Value Added Reseller,S,800000.00,80000.00,2022,2022,CA
+229,Instant Cycle Store,Specialty Bike Shop,A,800000.00,80000.00,2020,2022,FR
+230,Global Bike Retailers,Warehouse,Q,1500000.00,150000.00,2022,2022,DE
+231,Helmets and Cycles,Value Added Reseller,S,800000.00,80000.00,2021,2022,AU
+232,Exceptional Cycle Services,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,GB
+233,Fashionable Department Stores,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+234,Eastside Sporting Goods,Value Added Reseller,S,800000.00,80000.00,2020,2021,US
+235,Certified Bicycle Supply,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,US
+236,Closeout Boutique,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+237,Client Discount Store,Value Added Reseller,S,1000000.00,100000.00,2021,2022,US
+238,A Great Bicycle Company,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+239,Bicycle Merchandise Warehouse,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+240,Wire Baskets and Parts,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+241,Vale Riding Supplies,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+242,Spoke Manufacturers,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+243,Recreation Supplies,Value Added Reseller,S,800000.00,80000.00,2021,2021,US
+244,Retail Discount Store,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,CA
+245,Leather Seat Factory,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+246,Large Bike Shop,Value Added Reseller,S,800000.00,80000.00,2020,2021,CA
+247,Major Amusement Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,FR
+248,Good Bicycle Store,Warehouse,Q,3000000.00,300000.00,2022,2022,DE
+249,Helpful Sales and Repair Service,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+250,Express Bike Services,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,GB
+251,Endurance Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+252,Classic Cycle Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+253,Roving Sports,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+254,Safe Cycles Shop,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+255,Swift Cycles,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+256,Rental Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+257,Number 1 Supply,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+258,Quantity Discounts,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+259,Highway Bike Shop,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+260,Industrial Supplies,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+261,Functional Store North,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,US
+262,General Industries,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+263,Farthest Bike Store,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+264,Fasteners & Bolts Outlet,Value Added Reseller,S,800000.00,80000.00,2022,2022,CA
+265,Full Sports Supply,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,FR
+266,Excellent Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,DE
+267,Cycle Parts and Accessories,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+268,Channel Outlet,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,GB
+269,Curbside Universe,Warehouse,Q,3000000.00,300000.00,2019,2021,US
+270,Active Transport Inc.,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+271,Alternative Vehicles,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+272,Metro Cycle Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+273,A Typical Bike Shop,Value Added Reseller,S,300000.00,30000.00,2020,2020,US
+274,Active Systems,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,US
+275,Outdoor Sporting Goods,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+276,Thrifty Parts and Sales,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+277,The Bicycle Accessories Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+278,Tread Industries,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+279,Reliable Brake Systems,Value Added Reseller,S,300000.00,30000.00,2020,2020,US
+280,Standard Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+281,Petroleum Products Distributors,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+282,Quick Parts and Service,Value Added Reseller,S,300000.00,30000.00,2022,2022,CA
+283,Racing Supply Distributors,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,FR
+284,Nearby Bike Mall,Warehouse,Q,3000000.00,300000.00,2022,2022,DE
+285,Nearest Bike Store,Value Added Reseller,S,300000.00,30000.00,2022,2022,AU
+286,Number One Bike Co.,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,GB
+287,Handy Bike Services,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+288,Kickstand Sellers,Value Added Reseller,S,300000.00,30000.00,2021,2021,US
+289,Moderately-Priced Bikes Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+290,Friendly Bike Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+291,Grand Bicycle Stores,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+292,Grease and Oil Products Company,Specialty Bike Shop,A,1500000.00,150000.00,2019,2022,US
+293,Fashionable Bikes and Accessories,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+294,Flawless Bike Shop,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,US
+295,Engineered Bike Systems,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+296,Extreme Toy Store,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+297,Blue-Ribbon Bike Company,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+298,City Cycling,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,CA
+299,Citywide Service and Repair,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+300,Nice Bikes,Value Added Reseller,S,300000.00,30000.00,2021,2021,CA
+301,Rural Mountain Bike Mart,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,FR
+302,Best Cycle Store,Warehouse,Q,3000000.00,300000.00,2021,2022,DE
+303,Seaside Bike Works,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+304,Essential Bike Works,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,GB
+305,Professional Sporting Goods,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+306,Work and Play Association,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+307,Riding Associates,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+308,Rugged Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+309,The Gear Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+310,Orange Bicycle Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+311,Principal Bike Company,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+312,Resale Services,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+313,Metropolitan Manufacturing,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+314,One-Piece Handle Bars,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+315,Juvenile Sports Equipment,Value Added Reseller,S,800000.00,80000.00,2019,2021,US
+316,Low Price Cycles,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,CA
+317,Finer Riding Supplies,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+318,First-Rate Outlet,Value Added Reseller,S,1000000.00,100000.00,2020,2020,CA
+319,Cycles Sales and Repair,Specialty Bike Shop,A,1000000.00,100000.00,2022,2022,FR
+320,Amalgamated Parts Shop,Warehouse,Q,3000000.00,300000.00,2021,2022,DE
+321,Second Bike Shop,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+322,Tachometers and Accessories,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,GB
+323,Metro Bike Works,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+324,A Bicycle Association,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,US
+325,All Cycle Shop,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+326,Year-Round Sports,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+327,World of Bikes,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+328,Totes & Baskets Company,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+329,"Unicycles, Bicycles, and Tricycles",Specialty Bike Shop,A,800000.00,80000.00,NULL,NULL,US
+330,The New Bike Store,Warehouse,Q,1500000.00,150000.00,2020,2021,US
+331,Technical Parts Manufacturing,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+332,Topnotch Bikes,Specialty Bike Shop,A,800000.00,80000.00,NULL,NULL,US
+333,Resident Cycle Shop,Warehouse,Q,1500000.00,150000.00,NULL,NULL,US
+334,Retreat Inn,Value Added Reseller,S,300000.00,30000.00,2021,2022,CA
+335,Scratch-Resistant Finishes Company,Specialty Bike Shop,A,800000.00,80000.00,2020,2022,CA
+336,Primary Bike Distributors,Warehouse,Q,1500000.00,150000.00,2020,2022,CA
+337,Recreation Toy Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,FR
+338,Rambling Tours,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,DE
+339,Major Bicycle Store,Warehouse,Q,1500000.00,150000.00,2022,2022,AU
+340,Nearby Cycle Shop,Value Added Reseller,S,800000.00,80000.00,2021,2022,GB
+341,Independent Outlet,Specialty Bike Shop,A,1000000.00,100000.00,NULL,NULL,US
+342,Leather and Vinyl Manufacturing,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+343,Mail-Order Outlet,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+344,Fifth Bike Store,Specialty Bike Shop,A,1000000.00,100000.00,2019,2022,US
+345,Genial Bike Associates,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+346,Great Bicycle Supply,Value Added Reseller,S,1000000.00,100000.00,2020,2020,US
+347,Bike Universe,Specialty Bike Shop,A,1000000.00,100000.00,NULL,NULL,US
+348,Bold Bike Accessories,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+349,Exercise Center,Value Added Reseller,S,800000.00,80000.00,2021,2021,US
+350,Mountain Emporium,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+351,Acclaimed Bicycle Company,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+352,Twelfth Bike Store,Value Added Reseller,S,800000.00,80000.00,2021,2022,CA
+353,Two-Wheeled Transit Company,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,CA
+354,Serious Cycles,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+355,Spare Parts Co.,Value Added Reseller,S,800000.00,80000.00,2020,2022,FR
+356,Speedometer Sales,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,DE
+357,Quality Bike Sales,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+358,Mail Market,Value Added Reseller,S,800000.00,80000.00,2022,2022,GB
+359,Mechanical Sports Center,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+360,Novelty Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+361,Fitness Supplies,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+362,Grand Cycle Store,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+363,Immense Manufacturing Company,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+364,District Mall,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+365,Distinctive Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+366,Extended Bike Sales,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+367,Brown Bicycle Company,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,US
+368,Elemental Sporting Goods,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+369,Distinctive Cycles Sales & Service,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+370,Acceptable Sales & Service,Value Added Reseller,S,800000.00,80000.00,2020,2020,CA
+371,Custom Sales and Service,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,CA
+372,Top Bike Market,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+373,Township Inn,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,FR
+374,Major Equipment Co,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,DE
+375,Region Bike Company,Warehouse,Q,3000000.00,300000.00,NULL,NULL,AU
+376,Commerce Bicycle Specialists,Value Added Reseller,S,800000.00,80000.00,2021,2022,GB
+377,Grand Sport Boutique,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+378,Grown-up Bike Store,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+379,Fad Outlet,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+380,First Department Stores,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+381,Bicycle Lines Distributors,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+382,Beneficial Exercises and Activities,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+383,Vehicle Shop,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+384,Sparkling Paint and Finishes,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+385,Sturdy Toys,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+386,Touring Services,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+387,Racing Association,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+388,Road Way Sales and Rental,Value Added Reseller,S,300000.00,30000.00,2021,2021,CA
+389,Sixth Bike Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,CA
+390,Plastic Parts Company,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+391,Pretty Bikes and Toys,Value Added Reseller,S,300000.00,30000.00,2022,2022,FR
+392,Primary Cycle Shop,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,DE
+393,Gears and Parts Company,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+394,Little Sports Center,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,GB
+395,Online Bike Sellers,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+396,Executive Gift Store,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+397,Capable Sales and Service,Value Added Reseller,S,300000.00,30000.00,2019,2020,US
+398,Commendable Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+399,Big Cycle Mall,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+400,Local Sales and Rental,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+401,Brightwork Company,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+402,Pro Sporting Goods,Warehouse,Q,3000000.00,300000.00,NULL,NULL,US
+403,Affordable Sports Equipment,Value Added Reseller,S,300000.00,30000.00,2020,2021,US
+404,Activity Center,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+405,Sporting Goods and Bicycle Shop,Warehouse,Q,3000000.00,300000.00,NULL,NULL,US
+406,The Commissary,Value Added Reseller,S,300000.00,30000.00,2021,2021,CA
+407,Workout Emporium,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,CA
+408,Odometers and Accessories Company,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+409,Outdoor Toy Store,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,FR
+410,Pedaling Components,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,DE
+411,Kids and Adults Cycle Shop,Warehouse,Q,3000000.00,300000.00,2022,2022,AU
+412,Leisure Clearing House,Value Added Reseller,S,800000.00,80000.00,2021,2022,GB
+413,Margie's Travel,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+414,Grand Discount Store,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+415,Imaginary Toys,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,US
+416,Impromptu Trips,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+417,Genuine Bike Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+418,Good Bike Shop,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+419,Exertion Activities Club,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+420,Extreme Riding Supplies,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+421,Fitness Cycling,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+422,Consolidated Sales,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+423,Bike Rims Company,Warehouse,Q,3000000.00,300000.00,2019,2021,US
+424,Bikes for Two,Value Added Reseller,S,800000.00,80000.00,2021,2022,CA
+425,Bikes for Kids and Adults,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,CA
+426,Custom Accessories Company,Warehouse,Q,3000000.00,300000.00,2021,2022,CA
+427,Atypical Bike Company,Value Added Reseller,S,1000000.00,100000.00,2022,2022,FR
+428,West Wind Distributors,Specialty Bike Shop,A,1000000.00,100000.00,2022,2022,DE
+429,Unusual Bicycle Company,Warehouse,Q,3000000.00,300000.00,2021,2022,AU
+430,Uttermost Bike Shop,Value Added Reseller,S,800000.00,80000.00,2021,2022,GB
+431,Small Cycle Store,Specialty Bike Shop,A,1000000.00,100000.00,2019,2022,US
+432,Super Sports Store,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+433,Thorough Parts and Repair Services,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+434,Road-Way Mart,Specialty Bike Shop,A,1000000.00,100000.00,2021,2021,US
+435,Satin Finish Company,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+436,Sheet Metal Manufacturing,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+437,Professional Cycle Store,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+438,Remarkable Bike Store,Specialty Bike Shop,A,800000.00,80000.00,2020,2022,US
+439,Regional Manufacturing,Warehouse,Q,1500000.00,150000.00,2020,2020,US
+440,Hobby Store,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+441,Leading Bike Distributors,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,US
+442,Original Bicycle Supply Company,Warehouse,Q,1500000.00,150000.00,2019,2022,CA
+443,Courteous Bicycle Specialists,Value Added Reseller,S,300000.00,30000.00,2022,2022,CA
+444,Finer Cycle Shop,Specialty Bike Shop,A,800000.00,80000.00,2021,2022,CA
+445,First Center,Warehouse,Q,1500000.00,150000.00,2022,2022,FR
+446,Fitness Toys,Value Added Reseller,S,800000.00,80000.00,2022,2022,DE
+447,Cross-town Parts Shop,Specialty Bike Shop,A,800000.00,80000.00,NULL,NULL,AU
+448,Action Bicycle Specialists,Warehouse,Q,1500000.00,150000.00,2022,2022,GB
+449,Bike Products and Accessories,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+450,Bikes Anyone?,Specialty Bike Shop,A,1000000.00,100000.00,NULL,NULL,US
+451,Roadway Bike Emporium,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+452,A Cycle Shop,Value Added Reseller,S,800000.00,80000.00,NULL,NULL,US
+453,Unique Bikes,Specialty Bike Shop,A,1000000.00,100000.00,2020,2020,US
+454,Sleek Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+455,Timely Shipping Service,Value Added Reseller,S,1000000.00,100000.00,NULL,NULL,US
+456,Riding Excursions,Specialty Bike Shop,A,1000000.00,100000.00,2020,2020,US
+457,Retail Sporting Equipment,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+458,Simple Bike Parts,Value Added Reseller,S,800000.00,80000.00,2019,2022,US
+459,Parts Shop,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+460,Price-Cutter Discount Bikes,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+461,Active Life Toys,Value Added Reseller,S,800000.00,80000.00,2021,2021,CA
+462,General Riding Supplies,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+463,Brand New Bikes,Warehouse,Q,3000000.00,300000.00,NULL,NULL,FR
+464,Educational Services,Value Added Reseller,S,800000.00,80000.00,2022,2022,DE
+465,Expert Cycle Store,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,AU
+466,Central Bicycle Specialists,Warehouse,Q,3000000.00,300000.00,2022,2022,GB
+467,The Cycle Store,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+468,Blue Bicycle Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+469,Vast Bike Sales and Rental,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+470,Wingtip Toys,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+471,Social Activities Club,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+472,Summer Sports Place,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+473,Racing Toys,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+474,Retail Cycle Shop,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+475,Real Sporting Goods,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+476,Noiseless Gear Company,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+477,Quitting Business Distributors,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+478,Major Cycling,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+479,General Supplies,Value Added Reseller,S,800000.00,80000.00,2021,2022,CA
+480,General Bike Corporation,Specialty Bike Shop,A,1500000.00,150000.00,2019,2022,CA
+481,Getaway Inn,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+482,"Fabrikam Inc., East",Value Added Reseller,S,800000.00,80000.00,2021,2022,DE
+483,Fitness Bike Accessories,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+484,Downhill Bicycle Specialists,Warehouse,Q,3000000.00,300000.00,2021,2021,GB
+485,Clamps & Brackets Co.,Value Added Reseller,S,800000.00,80000.00,2019,2020,US
+486,Convenient Bike Shop,Specialty Bike Shop,A,1500000.00,150000.00,2019,2020,US
+487,Bike Experts,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+488,Bicycle Accessories and Kits,Value Added Reseller,S,300000.00,30000.00,2021,2021,US
+489,Cash & Carry Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+490,Extraordinary Bike Works,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+491,Area Bike Accessories,Value Added Reseller,S,300000.00,30000.00,2019,2022,US
+492,Basic Sports Equipment,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+493,Valley Bicycle Distributors,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+494,Worthwhile Activity Store,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+495,Tough and Reliable Parts,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+496,Top Sports Supply,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+497,Valley Toy Store,Value Added Reseller,S,300000.00,30000.00,2021,2022,CA
+498,Quick Delivery Service,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,CA
+499,Racing Sales and Service,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+500,Irregulars Outlet,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,DE
+501,Jumbo Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+502,Metropolitan Bicycle Supply,Warehouse,Q,3000000.00,300000.00,2021,2022,GB
+503,Metropolitan Sales and Rental,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+504,Historic Bicycle Sales,Specialty Bike Shop,A,1500000.00,150000.00,2019,2020,US
+505,Honest Repair Service,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+506,Great Bikes,Value Added Reseller,S,300000.00,30000.00,2019,2022,US
+507,Global Sporting Goods,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+508,Designer Department Stores,Warehouse,Q,3000000.00,300000.00,NULL,NULL,US
+509,Fun Toys and Bikes,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+510,World Bike Discount Store,Specialty Bike Shop,A,1500000.00,150000.00,2019,2022,US
+511,Wheel Gallery,Warehouse,Q,3000000.00,300000.00,2019,2020,US
+512,Tiny Bike Boutique,Value Added Reseller,S,300000.00,30000.00,2021,2021,US
+513,Village Tours,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+514,Retail Mall,Warehouse,Q,3000000.00,300000.00,2019,2022,CA
+515,Rural Bicycle Supply,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,CA
+516,Seats and Saddles Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,CA
+517,Racing Store,Warehouse,Q,3000000.00,300000.00,NULL,NULL,FR
+518,Regional Cycle Shop,Value Added Reseller,S,300000.00,30000.00,2022,2022,DE
+519,List Price Catalog Company,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+520,Metro Metals Co.,Warehouse,Q,3000000.00,300000.00,2022,2022,GB
+521,Mobile Outlet,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+522,Small Bike Accessories Shop,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+523,Futuristic Sport Distributors,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+524,Chain and Chain Tool Distributions,Value Added Reseller,S,800000.00,80000.00,2021,2021,US
+525,Cycles and Scooters,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+526,Finer Sales and Service,Warehouse,Q,3000000.00,300000.00,NULL,NULL,CA
+527,Fun Times Club,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+528,Alpine Ski House,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,US
+529,Big-Time Bike Store,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+530,Valuable Bike Parts Company,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+531,Sunny Place Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+532,The Showroom,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+533,Tenth Bike Store,Value Added Reseller,S,800000.00,80000.00,2020,2021,CA
+534,Recommended Bicycles,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,CA
+535,Spa and Exercise Outfitters,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+536,Next Door Cycles,Value Added Reseller,S,1000000.00,100000.00,2022,2022,DE
+537,Preferable Bikes,Specialty Bike Shop,A,1000000.00,100000.00,NULL,NULL,AU
+538,Prosperous Tours,Warehouse,Q,3000000.00,300000.00,2020,2022,GB
+539,Glossy Bikes,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+540,Guaranteed Sales and Service,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,US
+541,Nonskid Tire Company,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+542,Finer Parts Shop,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+543,Friendly Neighborhood Bikes,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,US
+544,Valley Bicycle Specialists,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+545,Finish and Sealant Products,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+546,Field Trip Store,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+547,Curbside Sporting Goods,Specialty Bike Shop,A,800000.00,80000.00,NULL,NULL,US
+548,New Bikes Company,Warehouse,Q,1500000.00,150000.00,2020,2020,US
+549,Daring Rides,Value Added Reseller,S,300000.00,30000.00,2019,2020,US
+550,Remote Bicycle Specialists,Specialty Bike Shop,A,800000.00,80000.00,2021,2022,CA
+551,Vinyl and Plastic Goods Corporation,Warehouse,Q,1500000.00,150000.00,2020,2022,CA
+552,Consolidated Messenger,Value Added Reseller,S,300000.00,30000.00,2022,2022,CA
+553,Accessories Network,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,FR
+554,Top of the Line Bikes,Warehouse,Q,1500000.00,150000.00,2022,2022,DE
+555,Twin Cycles,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+556,Variety Cycling,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,GB
+557,Purchase Mart,Warehouse,Q,1500000.00,150000.00,2022,2022,US
+558,Retail Sales and Service,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+559,Some Discount Store,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+560,Major Sport Suppliers,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+561,Mountain Toy Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+562,Practical Bike Supply Company,Specialty Bike Shop,A,1000000.00,100000.00,2020,2021,US
+563,Systematic Sales,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+564,Imported and Domestic Cycles,Value Added Reseller,S,1000000.00,100000.00,2021,2021,US
+565,Metallic Paint and Overcoat Co,Specialty Bike Shop,A,1000000.00,100000.00,NULL,NULL,US
+566,eCommerce Bikes,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+567,Global Plaza,Value Added Reseller,S,800000.00,80000.00,2020,2020,US
+568,Economy Center,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,CA
+569,Designated Distributors,Warehouse,Q,3000000.00,300000.00,2020,2020,CA
+570,Family's Favorite Bike Shop,Value Added Reseller,S,800000.00,80000.00,2021,2022,CA
+571,Community Department Stores,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,FR
+572,Versatile Sporting Goods Company,Warehouse,Q,3000000.00,300000.00,2021,2022,DE
+573,Nationwide Supply,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+574,Area Sheet Metal Supply,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,GB
+575,Bicycle Outfitters,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+576,The Bike Mechanics,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+577,Synthetic Materials Manufacturing,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,US
+578,The Bike Shop,Warehouse,Q,3000000.00,300000.00,2019,2022,US
+579,Riders Company,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+580,Rural Sales and Service,Specialty Bike Shop,A,1500000.00,150000.00,2020,2020,US
+581,Safe Toys,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+582,Professional Sales and Service,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+583,Professional Containers and Packaging Co.,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+584,Qualified Sales and Repair Services,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+585,Next-Door Bike Store,Value Added Reseller,S,800000.00,80000.00,2020,2021,US
+586,One Bike Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+587,Our Sporting Goods Store,Warehouse,Q,3000000.00,300000.00,2021,2022,CA
+588,General Cycle Storehouse,Value Added Reseller,S,800000.00,80000.00,2020,2021,CA
+589,Hiatus Bike Tours,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,FR
+590,Lustrous Paints and Components,Warehouse,Q,3000000.00,300000.00,2021,2021,DE
+591,Fitness Discount Store,Value Added Reseller,S,800000.00,80000.00,2021,2022,AU
+592,Cycling Goods,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,GB
+593,Expert Sports Store,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+594,Casual Bicycle Store,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+595,Cycle Clearance,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+596,Coho Sports,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+597,All Seasons Sports Supply,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+598,Black Bicycle Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+599,Westside Plaza,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+600,Strenuous Exercise Shop,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,US
+601,Transport Bikes,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+602,Ultimate Bike Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+603,Retail Toy Store,Value Added Reseller,S,300000.00,30000.00,2019,2021,US
+604,Sellers of Cycles,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+605,Outstanding Cycles,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+606,Little Bicycle Supply Shop,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+607,Maintenance and Repair for Bicycles,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+608,Golf and Cycle Store,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+609,Good Toys,Value Added Reseller,S,300000.00,30000.00,2021,2022,US
+610,Fitness Department Stores,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,US
+611,Front Runner Bikes,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+612,General Associates,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+613,Famous Bike Shop,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+614,Favorite Toy Distributor,Warehouse,Q,3000000.00,300000.00,2022,2022,FR
+615,Fast Services,Value Added Reseller,S,300000.00,30000.00,2022,2022,DE
+616,Eastward Bike Accessories,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+617,Tubeless Tire Company,Warehouse,Q,3000000.00,300000.00,2022,2022,GB
+618,Seventh Bike Store,Value Added Reseller,S,300000.00,30000.00,2019,2022,US
+619,Strong Metal Manufacturing,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,US
+620,Tires and Tubes,Warehouse,Q,3000000.00,300000.00,NULL,NULL,US
+621,Running and Cycling Gear,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+622,Gift and Toy Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2022,US
+623,Hardware Components,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+624,First Cycle Store,Value Added Reseller,S,300000.00,30000.00,2020,2022,US
+625,Major Sporting Goods,Specialty Bike Shop,A,1500000.00,150000.00,2021,2021,US
+626,Retail Sporting Goods,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+627,Exchange Parts Inc.,Value Added Reseller,S,300000.00,30000.00,2022,2022,US
+628,Executive Discount Store,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,US
+629,Efficient Cycling,Warehouse,Q,3000000.00,300000.00,2022,2022,CA
+630,Eastside Parts Shop,Value Added Reseller,S,800000.00,80000.00,2022,2022,CA
+631,Tandem Sales and Service,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,CA
+632,Ultimate Bicycle Company,Warehouse,Q,3000000.00,300000.00,2022,2022,FR
+633,Rustic Bike Store,Value Added Reseller,S,800000.00,80000.00,2022,2022,DE
+634,Sensible Sports,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,AU
+635,Sports Store,Warehouse,Q,3000000.00,300000.00,2021,2022,GB
+636,Recreation Systems,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+637,Reliable Retail Center,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+638,Metropolitan Equipment,Warehouse,Q,3000000.00,300000.00,2021,2022,FR
+639,Producer Goods Clearinghouse,Value Added Reseller,S,800000.00,80000.00,2021,2022,DE
+640,Liquidation Sales,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,AU
+641,Extended Tours,Warehouse,Q,3000000.00,300000.00,2020,2021,GB
+642,Fitness Sport Boutique,Value Added Reseller,S,800000.00,80000.00,2021,2021,US
+643,Friendly Bike Shop,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,US
+644,Convenient Sales and Service,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+645,Superior Hardware Distributors,Value Added Reseller,S,1000000.00,100000.00,2021,2022,US
+646,Yellow Bicycle Company,Specialty Bike Shop,A,1000000.00,100000.00,2019,2022,US
+647,Solid Bike Parts,Warehouse,Q,3000000.00,300000.00,2020,2021,US
+648,Small Bike Shop,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+649,Sports Products Store,Specialty Bike Shop,A,1000000.00,100000.00,2021,2022,US
+650,Permanent Finish Products,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+651,Retread Tire Company,Value Added Reseller,S,800000.00,80000.00,2021,2021,US
+652,Selected Distributors,Specialty Bike Shop,A,1000000.00,100000.00,2021,2021,US
+653,Mercantile Outlet,Warehouse,Q,3000000.00,300000.00,2021,2021,CA
+654,Online Bike Warehouse,Value Added Reseller,S,800000.00,80000.00,2021,2021,CA
+655,Operational Manufacturing,Value Added Reseller,S,300000.00,30000.00,2022,2022,CA
+656,Impervious Paint Company,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,FR
+657,Links Works,Warehouse,Q,1500000.00,150000.00,NULL,NULL,DE
+658,Mass Market Bikes,Value Added Reseller,S,300000.00,30000.00,NULL,NULL,AU
+659,Shipping Specialists,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,GB
+660,Exhilarating Cycles,Warehouse,Q,1500000.00,150000.00,2020,2022,US
+661,General Department Stores,Value Added Reseller,S,300000.00,30000.00,2020,2022,CA
+662,Finer Sporting Goods,Specialty Bike Shop,A,800000.00,80000.00,2022,2022,FR
+663,Capital Riding Supplies,Warehouse,Q,1500000.00,150000.00,2022,2022,DE
+664,Eastside Cycle Shop,Value Added Reseller,S,800000.00,80000.00,2021,2022,AU
+665,Authentic Sales and Service,Specialty Bike Shop,A,800000.00,80000.00,2021,2021,GB
+666,Bike Boutique,Warehouse,Q,1500000.00,150000.00,2021,2022,US
+667,Traditional Department Stores,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+668,Official Parts Shop,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+669,Racing Bike Outlet,Warehouse,Q,3000000.00,300000.00,2021,2022,US
+670,First Bike Store,Value Added Reseller,S,800000.00,80000.00,2019,2022,US
+671,"Contoso, Ltd.",Specialty Bike Shop,A,1000000.00,100000.00,NULL,NULL,US
+672,Utilitarian Sporting Goods,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+673,Countryside Company,Value Added Reseller,S,1000000.00,100000.00,2021,2022,US
+674,Discount Tours,Specialty Bike Shop,A,1000000.00,100000.00,2020,2022,US
+675,Bike Goods,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+676,Better Bike Shop,Value Added Reseller,S,800000.00,80000.00,2019,2022,US
+677,Tire Exchange,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,CA
+678,Vigorous Exercise Company,Warehouse,Q,3000000.00,300000.00,2020,2022,CA
+679,Superb Sales and Repair,Value Added Reseller,S,800000.00,80000.00,2019,2022,CA
+680,Racing Tours,Specialty Bike Shop,A,1500000.00,150000.00,2022,2022,FR
+681,Showcase for Cycles,Warehouse,Q,3000000.00,300000.00,2022,2022,DE
+682,Popular Bike Lines,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+683,Oils and Fluids Warehouse,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,GB
+684,Lease-a-Bike Shop,Warehouse,Q,3000000.00,300000.00,2020,2022,US
+685,Family Cycle Store,Value Added Reseller,S,800000.00,80000.00,2021,2022,CA
+686,Finished Parts Shop,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,FR
+687,Functional Store South,Warehouse,Q,3000000.00,300000.00,2022,2022,DE
+688,Bike Part Wholesalers,Value Added Reseller,S,800000.00,80000.00,2022,2022,AU
+689,Consumer Equipment,Specialty Bike Shop,A,1500000.00,150000.00,NULL,NULL,GB
+690,Active Cycling,Warehouse,Q,3000000.00,300000.00,2021,2021,US
+691,Mountain Bike Store,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+692,Successful Sales Company,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+693,Stock Parts and Supplies,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+694,The Accessories Store,Value Added Reseller,S,800000.00,80000.00,2021,2022,US
+695,Responsible Bike Dealers,Specialty Bike Shop,A,1500000.00,150000.00,2021,2022,US
+696,Roadway Supplies,Warehouse,Q,3000000.00,300000.00,2020,2020,US
+697,Brakes and Gears,Value Added Reseller,S,800000.00,80000.00,2020,2022,US
+698,Western Bike Supplies,Specialty Bike Shop,A,1500000.00,150000.00,2020,2021,US
+699,Sensational Discount Store,Warehouse,Q,3000000.00,300000.00,2022,2022,US
+700,Underglaze and Finish Company,Value Added Reseller,S,800000.00,80000.00,2022,2022,US
+701,Future Bikes,Warehouse,Q,3000000.00,300000.00,2021,2022,CA
